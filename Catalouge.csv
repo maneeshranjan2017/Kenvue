@@ -1,0 +1,19 @@
+﻿SourceSystem, Flag, DataType, Length, Completeness, Conformity, Accuracy,Is_Active
+France,Regular,String,8,Y,Y,Y,Y
+Australia,Regular,Int,2,N,N,Y,Y
+Germany,Regular,String,6,Y,Y,Y,Y
+Poland,Regular,String,8,Y,Y,Y,Y
+Italy,Regular,Int,2,N,N,Y,Y
+Japan,Regular,String,6,Y,Y,Y,Y
+Denmark,Regular,String,8,Y,Y,Y,Y
+Canada,Regular,Int,2,N,N,Y,Y
+Brazil,Regular,String,6,Y,Y,Y,Y
+France,Custom,String,8,Y,Y,Y,Y
+Australia,Custom,Int,2,N,N,Y,Y
+Germany,Custom,String,6,Y,Y,Y,Y
+Poland,Custom,String,8,Y,Y,Y,Y
+Italy,Custom,Int,2,N,N,Y,Y
+Japan,Custom,String,6,Y,Y,Y,Y
+Denmark,Custom,String,8,Y,Y,Y,Y
+Canada,Custom,Int,2,N,N,Y,Y
+Brazil,Custom,String,6,Y,Y,Y,Y
