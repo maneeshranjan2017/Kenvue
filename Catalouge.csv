@@ -1,0 +1,9 @@
+﻿SourceSystem, RuleID, Description, Flag, DataType, Length, Completeness, Conformity, Accuracy,Is_Active
+US,10012,,Custom,String,8,Y,Y,Y,Y
+CH,30015,,Custom,Int,2,N,N,Y,Y
+EUR,50001,,Custom,String,6,Y,Y,Y,Y
+CAN,10054,,Regular,String,10,Y,Y,Y,Y
+US,10014,,Custom,String,8,Y,Y,Y,Y
+CH,30052,,Custom,Int,2,N,N,Y,Y
+EUR,50010,,Custom,String,6,Y,Y,Y,Y
+CAN,10152,,Regular,String,10,Y,Y,Y,Y
